@@ -84,7 +84,6 @@ button{
         transition: 1s all;
  }
  .switch-toggle input:checked + label {
-   transition: 1s all;
    background:coral;
      padding:10px;
  }
