@@ -81,6 +81,7 @@ button{
    border-radius: 50px;
    color: #fff;
    cursor: pointer;
+        transition: 1s all;
  }
  .switch-toggle input:checked + label {
    transition: 1s all;
@@ -94,7 +95,7 @@ button{
      justify-content:flex-end;
  }
  .number p{
-     margin: 0 5px;
+     margin: 0 10px;
  }
  .flex{
      display: flex;
