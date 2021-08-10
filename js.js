@@ -63,7 +63,7 @@ function equal(){
     else{
         prev = newval;
     }
-    document.getElementById('display').innerHTML = result.toFixed(2);
+    document.getElementById('display').innerHTML = result;
 }
 
 function clr (){
